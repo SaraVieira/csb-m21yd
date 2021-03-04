@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saravieira.github.io/csb-m21yd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://saravieira.github.io/csb-m21yd/static/js/main.c2c1dff9.chunk.js",
+    "main.js.map": "https://saravieira.github.io/csb-m21yd/static/js/main.c2c1dff9.chunk.js.map",
+    "runtime-main.js": "https://saravieira.github.io/csb-m21yd/static/js/runtime-main.5a21ad53.js",
+    "runtime-main.js.map": "https://saravieira.github.io/csb-m21yd/static/js/runtime-main.5a21ad53.js.map",
+    "static/js/2.a6ee0518.chunk.js": "https://saravieira.github.io/csb-m21yd/static/js/2.a6ee0518.chunk.js",
+    "static/js/2.a6ee0518.chunk.js.map": "https://saravieira.github.io/csb-m21yd/static/js/2.a6ee0518.chunk.js.map",
+    "index.html": "https://saravieira.github.io/csb-m21yd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://saravieira.github.io/csb-m21yd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a6ee0518.chunk.js.LICENSE.txt": "https://saravieira.github.io/csb-m21yd/static/js/2.a6ee0518.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a21ad53.js",
+    "static/js/2.a6ee0518.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c2c1dff9.chunk.js"
+  ]
+}
